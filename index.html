@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare News - World's Most Important News</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <img src="images/healthcare news.png" alt="Healthcare News" class="logo-image">
+                <h1 class="intro">We curate some recent, interesting and fun news related to health from around the world.</h1>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Loading the latest news...</p>
+            </div>
+
+            <div class="error-message" id="errorMessage" style="display: none;">
+                <h3>Failed to load news</h3>
+                <p>Please try again later.</p>
+                <button onclick="loadNews()" class="retry-btn">Retry</button>
+            </div>
+
+            <div class="news-grid" id="newsGrid"></div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy;  Healthcare News.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

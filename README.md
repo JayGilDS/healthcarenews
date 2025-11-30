@@ -1,6 +1,7 @@
 # Healthcare News
 
 #### Video Demo: <[Healthcare News](https://youtu.be/2BbWxjjXQio)>
+#### see the website <[here](https://jaygilds.github.io/healthcarenews/)>
 
 ## Description:
 

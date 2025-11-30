@@ -1,6 +1,6 @@
 # Healthcare News
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <[Healthcare News](https://youtu.be/2BbWxjjXQio)>
 
 ## Description:
 

@@ -1,7 +1,8 @@
 # Healthcare News
 
 #### Video Demo: <[Healthcare News](https://youtu.be/2BbWxjjXQio)>
-#### see the website <[here](https://jaygilds.github.io/healthcarenews/)>
+#### See the website <[here](https://jaygilds.github.io/healthcarenews/)>
+#### <[CS50 certificate](https://certificates.cs50.io/8c74fc3e-94ab-49fc-849b-3eb2bdcd3921.pdf?size=letter)>
 
 ## Description:
 
